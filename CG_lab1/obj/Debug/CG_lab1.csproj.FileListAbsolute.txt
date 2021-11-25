@@ -1,0 +1,11 @@
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\bin\Debug\CG_lab1.exe.config
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\bin\Debug\CG_lab1.exe
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\bin\Debug\CG_lab1.pdb
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.csproj.AssemblyReference.cache
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.Form1.resources
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.Properties.Resources.resources
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.exe
+C:\Users\Тая\source\repos\CG_lab1\CG_lab1\obj\Debug\CG_lab1.pdb
